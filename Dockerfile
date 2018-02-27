@@ -1,6 +1,6 @@
 FROM debian:9-slim
 
-LABEL maintainer="Tomohisa Kusano <siomiz@gmail.com>" \
+LABEL maintainer="Kazuki Yoshihara <work.k.yoshihara@gmail.com>" \
       contributors="Ian Neubert <github.com/ianneub>; Ky-Anh Huynh <github.com/icy>; Max Kuchin <mkuchin@gmail.com>; maltalex <github.com/maltalex>"
 
 ENV BUILD_VERSION=4.25-9656-rtm \
